@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "@types/line-reader": "0.0.29",
-    "line-reader": "^0.4.0"
+    "@types/prompt-sync": "^4.1.0",
+    "line-reader": "^0.4.0",
+    "prompt-sync": "^4.2.0"
   }
 }
