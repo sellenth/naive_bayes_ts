@@ -1,0 +1,25 @@
+{
+  "name": "naive-bayes",
+  "version": "1.0.0",
+  "description": "Naive Bayes Classifier in Typescript",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Halston Sellentin",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.5.1",
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "tsify": "^4.0.1",
+    "typescript": "^3.9.2",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.1",
+    "@types/node": "^14.0.3"
+  },
+  "dependencies": {
+    "@types/line-reader": "0.0.29",
+    "line-reader": "^0.4.0"
+  }
+}

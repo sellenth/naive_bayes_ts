@@ -1,0 +1,13 @@
+{
+    "files": [
+        "src/main.ts",
+        "src/lib.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "outDir": "dist",
+        "module":"CommonJS",
+        "sourceMap": true
+    }
+}
